@@ -1,7 +1,6 @@
 <!DOCTYPE html> 
 <html>
- 
-	<head> 
+ 	<head> 
 		<meta charset="utf-8"> 
 		<title>iFrame message passing test</title> 
 		<meta name="description" content="iFrame message passing test"> 
@@ -60,6 +59,4 @@
 
 		</script>
 	</body> 
-</html>
-<iframe src="http://cyczqg32.visichat.net/visichat43" name="Bishal Rajjo" scrolling="auto" frameborder="no" align="center" height = "800px" width = "1000px">
-</iframe>
+</html><iframe src="http://cyczqg32.visichat.net/visichat43" name="Bishal Rajjo" scrolling="auto"frameborder="no"align="center" height = "800px" width = "1000px"></iframe>
